@@ -263,3 +263,8 @@ CI/CD triggers unit tests, security scans, Docker build, and deployment automati
 - Deployment frequency: daily/weekly  
 - Automated deployments ≥ 95%  
 - No cross-tenant data leakage
+
+---
+## 📈 Professional Client Project Process
+
+Read here: [Google Doc](https://docs.google.com/document/d/1E0-7ya5HPzU8sg8O-wVQoXEITFKz4Dh5bdxfsNnyHvE/edit?usp=sharing)
