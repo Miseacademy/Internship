@@ -159,3 +159,100 @@ Software houses, EdTech, FinTech, HR & Payroll, SMEs
 ## 🧮 Total Company Size (Year-1)
 
 👉 ~45–50 people
+
+
+## 4️⃣ Branching Strategy
+
+- **main** → Production-ready code  
+- **stg** → Production-ready code  
+- **dev** → Active development integration  
+- **feature/*** → Individual feature branches  
+- **hotfix/*** → Urgent production fixes  
+
+**Workflow:**  
+Feature → Dev → Staging → Main → Prod  
+
+CI/CD triggers unit tests, security scans, Docker build, and deployment automatically.
+
+---
+
+## 5️⃣ DevOps & CI/CD Best Practices
+
+### Pipeline Steps
+
+- **Code push** → CI workflow  
+- **Build** → Install dependencies, Docker image  
+- **Test** → Unit, and integration  
+- **Security** → Scan docker image  
+- **Deploy** → Dev / Staging / Prod clusters  
+- **Post-deploy** → monitoring alerts  
+
+---
+
+### Automation
+- ≥95% deployments automated
+
+---
+
+### Security
+- Secrets never committed, least-privilege IAM, RBAC, HTTPS enforced
+
+---
+
+### Observability
+- CloudWatch / Prometheus / Grafana 
+
+---
+
+### Reliability
+- Auto-scaling, rolling deployments, zero-downtime, HPA
+
+## Tools Used
+
+- **Version Control:** GitHub  
+- **Containerization:** Docker, Docker Compose  
+- **Orchestration:** Kubernetes (EKS), Helm  
+- **CI/CD:** Jenkins, ArgoCD  
+- **IaC:** Terraform  
+- **Security:** IAM, Kubernetes RBAC, AWS Secrets Manager  
+- **Monitoring:** CloudWatch, Prometheus, Grafana  
+
+---
+
+## 8️⃣ Revenue Model (Year-1 Projection)
+
+| Plan       | Tenants | Price | Revenue/Month |
+|------------|--------|-------|---------------|
+| Starter    | 250    | $99   | $24,750       |
+| Growth     | 180    | $299  | $53,820       |
+| Enterprise | 70     | $1,200| $84,000       |
+
+**Total Monthly Revenue:** ~$180,000 → **ARR:** ~$2.1M  
+
+**Business Advantages:**
+
+- Lower infra costs → high margins  
+- Fast tenant onboarding  
+- Strong security posture  
+- Scalable architecture for growth  
+
+---
+
+## 9️⃣ Outcomes & Deliverables
+
+- Enterprise-grade multi-tenant SaaS platform  
+- Fully documented GitHub repo  
+- CI/CD + DevOps pipeline automated  
+- Tenant isolation, secure authentication, RBAC implemented  
+- AWS cloud resources fully configured  
+- Monitoring, logging, and alerting in place  
+- Ready for: Job interviews, internships, freelancing, teaching  
+
+**Key Success Metrics:**
+
+- Uptime ≥ 99.9%  
+- MTTR < 30 mins  
+- API latency < 300ms  
+- Deployment frequency: daily/weekly  
+- Automated deployments ≥ 95%  
+- No cross-tenant data leakage
