@@ -167,6 +167,17 @@ Software houses, EdTech, FinTech, HR & Payroll, SMEs
 
 👉 ~45–50 people
 
+---
+## 🧮 Project List (Choose only one project)
+1. https://github.com/Mshandev/Food-Delivery
+2. https://github.com/nitansh11/redbus
+3. https://github.com/jeevan-aj/Rent-a-Ride
+4. https://github.com/harshitsingh4321/Appointy
+5. https://github.com/shubham79a/job-portal
+6. https://github.com/hrutavmodha/e-commerce
+7. https://github.com/krishnaacharyaa/wanderlust
+
+---
 
 ## 4️⃣ Branching Strategy
 
