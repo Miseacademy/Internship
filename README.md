@@ -179,7 +179,7 @@ Software houses, EdTech, FinTech, HR & Payroll, SMEs
 
 ---
 
-## ## Define Environments (Dev / Stage / Prod)
+## Define Environments (Dev / Stage / Prod)
 
 ### 🔹 Why Environments Matter
 Different environments ensure:
@@ -227,6 +227,8 @@ Catch bugs before production
 | Dev        | Development   | Developers    |
 | Stage      | Testing       | QA / Product  |
 | Prod       | Live system   | Customers     |
+
+---
 
 ## 4️⃣ GitFlow - Branching Strategy
 
