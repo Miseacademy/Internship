@@ -1,4 +1,7 @@
-# Secure Scale and Deploy Multi-Tenant SaaS Platform (AWS + DevOps)
+# Architecting a Secure, Scalable Multi-Tenant SaaS Platform on AWS with DevOps Automation (AWS + DevOps)
+<img width="589" height="393" alt="Picture1" src="https://github.com/user-attachments/assets/21ca8906-fdfa-4066-8c64-f8e409c8399e" />
+
+
 
 ## 1️⃣ Problem Statement
 
