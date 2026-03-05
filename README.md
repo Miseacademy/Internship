@@ -61,3 +61,101 @@ Software houses, EdTech, FinTech, HR & Payroll, SMEs
 - Customer Support  
 - Growth  
 - Exec Layer
+
+## 5️⃣ Platform Internal Teams (Our Company)
+
+### 👑 Executive Layer
+
+| Role | Count |
+|-----|------|
+| CEO | 1 |
+| CTO | 1 |
+| COO | 1 |
+| CISO | 1 |
+
+---
+
+## 🧠 Product & Engineering
+
+### 1️⃣ Platform Engineering Team
+
+| Role | Engineers |
+|-----|-----------|
+| Tech Lead | 1 |
+| Backend Engineers | 4 |
+| Frontend Engineers | 3 |
+| API Architect | 1 |
+
+**Total:** 9 engineers
+
+**Responsibility**
+
+- Multi-tenant architecture  
+- Auth, billing, tenant isolation  
+- Core APIs  
+
+---
+
+### 2️⃣ DevOps / Cloud Team
+
+| Role | Engineers |
+|-----|-----------|
+| DevOps Engineer | 2 |
+| Cloud Engineers | 3 |
+| SRE | 2 |
+
+**Total:** 7 engineers
+
+**Responsibility**
+
+- AWS infrastructure  
+- CI/CD pipelines  
+- Security automation  
+- Cost optimization  
+
+---
+
+### 3️⃣ Security Team
+
+| Role | Engineers |
+|-----|-----------|
+| Security Architect | 1 |
+| Cloud Security Engineers | 2 |
+| Compliance Officer | 1 |
+
+**Total:** 4
+
+**Responsibility**
+
+- SOC2 / ISO27001  
+- Pen-testing  
+- Tenant isolation validation  
+- Incident response  
+
+---
+
+### 4️⃣ Data & Analytics Team
+
+| Role | Engineers |
+|-----|-----------|
+| Data Engineer | 2 |
+| BI Engineer | 1 |
+
+**Total:** 3
+
+---
+
+## 🧑‍💼 Customer & Growth
+
+| Team | People |
+|-----|--------|
+| Customer Support | 6 |
+| Sales | 5 |
+| Marketing | 4 |
+| Customer Success | 3 |
+
+---
+
+## 🧮 Total Company Size (Year-1)
+
+👉 ~45–50 people
