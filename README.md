@@ -1,6 +1,10 @@
 # Architecting a Secure, Scalable Multi-Tenant SaaS Platform on AWS with DevOps Automation (AWS + DevOps)
-<img width="589" height="393" alt="Picture1" src="https://github.com/user-attachments/assets/21ca8906-fdfa-4066-8c64-f8e409c8399e" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ca6d359-cf3e-469d-8447-84fe3b3f50bd" 
+       alt="ChatGPT Image Mar 5, 2026, 11_42_11 AM" 
+       width="800">
+</p>
 
 
 ## 1️⃣ Problem Statement
