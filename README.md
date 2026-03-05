@@ -179,7 +179,56 @@ Software houses, EdTech, FinTech, HR & Payroll, SMEs
 
 ---
 
-## 4️⃣ Branching Strategy
+## ## Define Environments (Dev / Stage / Prod)
+
+### 🔹 Why Environments Matter
+Different environments ensure:
+
+- Safe development  
+- Controlled testing  
+- Stable production releases  
+
+---
+
+### 🔹 Environment Breakdown
+
+#### 🧪 Development (dev)
+- Used by developers  
+- Frequent changes  
+- Debug mode enabled  
+
+**Example:**  
+<p>API_URL=https://api-dev.project.com</p>
+
+
+#### 🧪 Staging (stage)
+- Pre-production testing  
+- Same config as production  
+- Used by QA & stakeholders  
+
+**Purpose:**  
+Catch bugs before production  
+
+#### 🚀 Production (prod)
+- Live users  
+- High security  
+- Monitoring & alerts enabled  
+
+**Rules:**  
+- No direct code changes  
+- Only CI/CD deployments  
+
+---
+
+### 🔹 Environment Table
+
+| Environment | Purpose       | Users         |
+|------------|---------------|---------------|
+| Dev        | Development   | Developers    |
+| Stage      | Testing       | QA / Product  |
+| Prod       | Live system   | Customers     |
+
+## 4️⃣ GitFlow - Branching Strategy
 
 - **main** → Production-ready code  
 - **stg** → Production-ready code  
