@@ -6,6 +6,11 @@
        width="800">
 </p>
 
+<p align="center">
+  <img width="1024" height="1536" alt="ChatGPT Image Mar 10, 2026, 12_50_29 PM" src="https://github.com/user-attachments/assets/af4a0146-76d1-47c2-881e-58a1b155ed76" />
+</p>
+
+
 
 ## 1️⃣ Problem Statement
 
