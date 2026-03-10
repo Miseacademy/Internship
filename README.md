@@ -1,10 +1,13 @@
 # Architecting a Secure, Scalable Multi-Tenant SaaS Platform on AWS with DevOps Automation (AWS + DevOps)
 
+# Full Architecture Diagram
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ca6d359-cf3e-469d-8447-84fe3b3f50bd" 
        alt="ChatGPT Image Mar 5, 2026, 11_42_11 AM" 
        width="800">
 </p>
+
+# Network Architecture Diagram
 
 <p align="center">
   <img width="800" alt="ChatGPT Image Mar 10, 2026, 12_50_29 PM" src="https://github.com/user-attachments/assets/af4a0146-76d1-47c2-881e-58a1b155ed76" />
